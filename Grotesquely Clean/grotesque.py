@@ -1,0 +1,1 @@
+print('CLEAN') if list(map(lambda x: sum(x)>=30 or max(x)>=6, [list(map(int, input().split()))]))[0] else print('DO NOT CLEAN')

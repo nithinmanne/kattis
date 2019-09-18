@@ -1,0 +1,1 @@
+print(*map(lambda x: x.count(x[0]), [input()]))
