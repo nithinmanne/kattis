@@ -1,2 +1,2 @@
 # Odd Man Out
-URL: [oddmanout](https://uchicago.kattis.com/problems/oddmanout)
+URL: [oddmanout](https://open.kattis.com/problems/oddmanout)

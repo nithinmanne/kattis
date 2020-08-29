@@ -1,2 +1,2 @@
 # Apaxiaaaaaaaaaaaans!
-URL: [apaxiaaans](https://uchicago.kattis.com/problems/apaxiaaans)
+URL: [apaxiaaans](https://open.kattis.com/problems/apaxiaaans)

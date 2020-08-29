@@ -1,2 +1,2 @@
 # Pet
-URL: [pet](https://uchicago.kattis.com/problems/pet)
+URL: [pet](https://open.kattis.com/problems/pet)

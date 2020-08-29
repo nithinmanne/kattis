@@ -1,2 +1,2 @@
 # Road Trip!
-URL: [roadtrip2](https://uchicago.kattis.com/problems/roadtrip2)
+URL: [roadtrip2](https://open.kattis.com/problems/roadtrip2)

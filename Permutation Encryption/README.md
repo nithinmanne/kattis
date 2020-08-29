@@ -1,2 +1,2 @@
 # Permutation Encryption
-URL: [permutationencryption](https://uchicago.kattis.com/problems/permutationencryption)
+URL: [permutationencryption](https://open.kattis.com/problems/permutationencryption)

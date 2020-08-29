@@ -1,2 +1,2 @@
 # Connect-N
-URL: [connectn](https://uchicago.kattis.com/problems/connectn)
+URL: [connectn](https://open.kattis.com/problems/connectn)

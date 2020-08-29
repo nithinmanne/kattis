@@ -1,2 +1,2 @@
 # Bus Numbers
-URL: [busnumbers](https://uchicago.kattis.com/problems/busnumbers)
+URL: [busnumbers](https://open.kattis.com/problems/busnumbers)

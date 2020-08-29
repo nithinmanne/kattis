@@ -1,2 +1,2 @@
 # Semafori
-URL: [semafori](https://uchicago.kattis.com/problems/semafori)
+URL: [semafori](https://open.kattis.com/problems/semafori)

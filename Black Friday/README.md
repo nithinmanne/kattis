@@ -1,2 +1,2 @@
 # Black Friday
-URL: [blackfriday](https://uchicago.kattis.com/problems/blackfriday)
+URL: [blackfriday](https://open.kattis.com/problems/blackfriday)

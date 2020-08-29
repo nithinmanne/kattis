@@ -1,2 +1,2 @@
 # Secret Message
-URL: [secretmessage](https://uchicago.kattis.com/problems/secretmessage)
+URL: [secretmessage](https://open.kattis.com/problems/secretmessage)

@@ -1,2 +1,2 @@
 # Engineering English
-URL: [engineeringenglish](https://uchicago.kattis.com/problems/engineeringenglish)
+URL: [engineeringenglish](https://open.kattis.com/problems/engineeringenglish)

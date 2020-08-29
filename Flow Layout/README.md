@@ -1,2 +1,2 @@
 # Flow Layout
-URL: [flowlayout](https://uchicago.kattis.com/problems/flowlayout)
+URL: [flowlayout](https://open.kattis.com/problems/flowlayout)

@@ -1,2 +1,2 @@
 # A Different Problem
-URL: [different](https://uchicago.kattis.com/problems/different)
+URL: [different](https://open.kattis.com/problems/different)

@@ -1,2 +1,2 @@
 # Ferry Loading IV
-URL: [ferryloading4](https://uchicago.kattis.com/problems/ferryloading4)
+URL: [ferryloading4](https://open.kattis.com/problems/ferryloading4)

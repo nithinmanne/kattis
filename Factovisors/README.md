@@ -1,2 +1,2 @@
 # Factovisors
-URL: [factovisors](https://uchicago.kattis.com/problems/factovisors)
+URL: [factovisors](https://open.kattis.com/problems/factovisors)

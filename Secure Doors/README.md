@@ -1,2 +1,2 @@
 # Secure Doors
-URL: [securedoors](https://uchicago.kattis.com/problems/securedoors)
+URL: [securedoors](https://open.kattis.com/problems/securedoors)

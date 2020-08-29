@@ -1,2 +1,2 @@
 # Babelfish
-URL: [babelfish](https://uchicago.kattis.com/problems/babelfish)
+URL: [babelfish](https://open.kattis.com/problems/babelfish)

@@ -1,2 +1,2 @@
 # Watch Out For Those Hailstones!
-URL: [hailstone](https://uchicago.kattis.com/problems/hailstone)
+URL: [hailstone](https://open.kattis.com/problems/hailstone)

@@ -1,2 +1,2 @@
 # Bounding Robots
-URL: [boundingrobots](https://uchicago.kattis.com/problems/boundingrobots)
+URL: [boundingrobots](https://open.kattis.com/problems/boundingrobots)

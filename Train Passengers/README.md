@@ -1,2 +1,2 @@
 # Train Passengers
-URL: [trainpassengers](https://uchicago.kattis.com/problems/trainpassengers)
+URL: [trainpassengers](https://open.kattis.com/problems/trainpassengers)

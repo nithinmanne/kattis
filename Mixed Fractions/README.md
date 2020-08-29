@@ -1,2 +1,2 @@
 # Mixed Fractions
-URL: [mixedfractions](https://uchicago.kattis.com/problems/mixedfractions)
+URL: [mixedfractions](https://open.kattis.com/problems/mixedfractions)

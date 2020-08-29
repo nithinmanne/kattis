@@ -1,2 +1,2 @@
 # Hello World!
-URL: [hello](https://uchicago.kattis.com/problems/hello)
+URL: [hello](https://open.kattis.com/problems/hello)

@@ -1,2 +1,2 @@
 # Torn To Pieces
-URL: [torn2pieces](https://uchicago.kattis.com/problems/torn2pieces)
+URL: [torn2pieces](https://open.kattis.com/problems/torn2pieces)

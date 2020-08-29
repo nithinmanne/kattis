@@ -1,2 +1,2 @@
 # Erase Securely
-URL: [erase](https://uchicago.kattis.com/problems/erase)
+URL: [erase](https://open.kattis.com/problems/erase)

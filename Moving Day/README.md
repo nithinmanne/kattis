@@ -1,2 +1,2 @@
 # Moving Day
-URL: [movingday](https://uchicago.kattis.com/problems/movingday)
+URL: [movingday](https://open.kattis.com/problems/movingday)
